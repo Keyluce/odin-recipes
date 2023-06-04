@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 252, 217);
+}
+
+.title{
+    color:rgb(96, 40, 0);
+    text-align: center;
+}
+
+li{
+    font-weight: bold;
+    font-size: 21px;
+    color: red;
+}
+
+
