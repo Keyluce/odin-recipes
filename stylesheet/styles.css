@@ -50,3 +50,16 @@ li{
     margin: 0px auto;
     border: 10px ridge white;
 }
+
+
+.ingredients-container{
+    border: 5px ridge brown;;
+    width: 500px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.step-container{
+    width: 1000px;
+    margin: 20px auto;
+}
